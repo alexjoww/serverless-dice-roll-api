@@ -76,7 +76,7 @@ Outputs:
 To use the API, simply curl the endpoint:
 
 ```
-curl "https://szgj6qbxjk.execute-api.us-east-1.amazonaws.com/Prod/roll"
+curl "https://abcxyz.execute-api.us-east-1.amazonaws.com/Prod/roll"
 ```
 # Parameters
 
@@ -85,8 +85,7 @@ Optionally, you can pass a parameter "sides" which will take in an integer to be
 For example, roll?sides=12 will generate a pseudorandom number between 1 and 12.
 
 ```
-curl "https://szgj6qbxjk.execute-api.us-east-1.amazonaws.com/Prod/roll?sides=12"
+curl "https://abcxyz.execute-api.us-east-1.amazonaws.com/Prod/roll?sides=12"
 ```
 
-<img width="1396" height="132" alt="image" src="https://github.com/user-attachments/assets/108fb397-0050-488d-a20e-3094544531f7" />
-
+<img width="410" height="138" alt="image" src="https://github.com/user-attachments/assets/d82c21e5-a00d-45ef-a32b-7c2715843360" />
