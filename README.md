@@ -1,7 +1,7 @@
 # serverless-dice-roll-api
 A dice roll API built using AWS Lambda + API Gateway
 
-Steps to replicate this project can be found on the AWS Builder Center: https://builder.aws.com/content/3Bl1ZPShZdu8G0OfzFlOHXvfed9/build-a-serverless-dice-roll-api
+Steps to replicate this project can be found on the AWS Builder Center (copy and paste URL): https://builder.aws.com/content/3Bl1ZPShZdu8G0OfzFlOHXvfed9/build-a-serverless-dice-roll-api
 
 # Using the API
 
