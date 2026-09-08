@@ -15,3 +15,7 @@ curl "https://szgj6qbxjk.execute-api.us-east-1.amazonaws.com/Prod/roll"
 Optionally, you can pass a parameter "sides" which will take in an integer to be the number of sides on the dice.
 
 For example, roll?sides=12 will generate a pseudorandom number between 1 and 12.
+
+```
+curl "https://szgj6qbxjk.execute-api.us-east-1.amazonaws.com/Prod/roll?sides=12"
+```
